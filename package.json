@@ -1,0 +1,23 @@
+{
+  "name": "westfield-js-sdk",
+  "version": "0.1.0",
+  "description": "A simple module which uses swagger to and swagger-js to build an SDK for Westfield APIs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alecraeside/westfield-js-sdk.git"
+  },
+  "keywords": [
+    "westfield"
+  ],
+  "author": "Alec Raeside <araeside@westfield.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/alecraeside/westfield-js-sdk/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "swagger-client": "^2.1.2-M2"
+  }
+}
