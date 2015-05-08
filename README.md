@@ -1,7 +1,7 @@
 Westfield JS SDK
 =========
 
-A simple module which uses swagger to and swagger-js to build an SDK for Westfield APIs
+A simple module which uses swagger and swagger-js to build an SDK for Westfield APIs
 
 ## Installation
 
